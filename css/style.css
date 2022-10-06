@@ -1,0 +1,8 @@
+.right-side-nav{
+    display: flex;
+    justify-content: end;
+}
+.jumbotron{
+    padding-top: 20%;
+    padding-bottom: 20%
+}
